@@ -1,0 +1,83 @@
+{
+  "summary": "studio-notebook first leaves demand unfilled on 2026-05-03; the longest shortage lasts 2 days.",
+  "metrics": {
+    "Shortage windows": 2,
+    "Unmet units": 17,
+    "Longest shortage (days)": 2,
+    "Final stock": 7
+  },
+  "rows": [
+    {
+      "Date": "2026-05-01",
+      "Opening units": 18,
+      "Receipts": 0,
+      "Demand": 7,
+      "Fulfilled": 7,
+      "Unmet demand": 0,
+      "Closing units": 11
+    },
+    {
+      "Date": "2026-05-02",
+      "Opening units": 11,
+      "Receipts": 0,
+      "Demand": 11,
+      "Fulfilled": 11,
+      "Unmet demand": 0,
+      "Closing units": 0
+    },
+    {
+      "Date": "2026-05-03",
+      "Opening units": 0,
+      "Receipts": 0,
+      "Demand": 8,
+      "Fulfilled": 0,
+      "Unmet demand": 8,
+      "Closing units": 0
+    },
+    {
+      "Date": "2026-05-04",
+      "Opening units": 0,
+      "Receipts": 0,
+      "Demand": 5,
+      "Fulfilled": 0,
+      "Unmet demand": 5,
+      "Closing units": 0
+    },
+    {
+      "Date": "2026-05-05",
+      "Opening units": 0,
+      "Receipts": 25,
+      "Demand": 6,
+      "Fulfilled": 6,
+      "Unmet demand": 0,
+      "Closing units": 19
+    },
+    {
+      "Date": "2026-05-06",
+      "Opening units": 19,
+      "Receipts": 0,
+      "Demand": 8,
+      "Fulfilled": 8,
+      "Unmet demand": 0,
+      "Closing units": 11
+    },
+    {
+      "Date": "2026-05-07",
+      "Opening units": 11,
+      "Receipts": 0,
+      "Demand": 15,
+      "Fulfilled": 11,
+      "Unmet demand": 4,
+      "Closing units": 0
+    },
+    {
+      "Date": "2026-05-08",
+      "Opening units": 0,
+      "Receipts": 12,
+      "Demand": 5,
+      "Fulfilled": 5,
+      "Unmet demand": 0,
+      "Closing units": 7
+    }
+  ]
+}

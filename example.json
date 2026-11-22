@@ -1,0 +1,46 @@
+{
+  "sku": "studio-notebook",
+  "opening_units": 18,
+  "days": [
+    {
+      "date": "2026-05-01",
+      "receipts": 0,
+      "demand": 7
+    },
+    {
+      "date": "2026-05-02",
+      "receipts": 0,
+      "demand": 11
+    },
+    {
+      "date": "2026-05-03",
+      "receipts": 0,
+      "demand": 8
+    },
+    {
+      "date": "2026-05-04",
+      "receipts": 0,
+      "demand": 5
+    },
+    {
+      "date": "2026-05-05",
+      "receipts": 25,
+      "demand": 6
+    },
+    {
+      "date": "2026-05-06",
+      "receipts": 0,
+      "demand": 8
+    },
+    {
+      "date": "2026-05-07",
+      "receipts": 0,
+      "demand": 15
+    },
+    {
+      "date": "2026-05-08",
+      "receipts": 12,
+      "demand": 5
+    }
+  ]
+}
