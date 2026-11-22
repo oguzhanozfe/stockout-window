@@ -2,6 +2,8 @@
 
 Project daily inventory and identify consecutive shortage days under a demand and delivery schedule.
 
+**[Open the live demo](https://oguzhanozfe.github.io/stockout-window/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Stockout Window showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/stockout-window) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)

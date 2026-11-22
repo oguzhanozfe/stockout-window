@@ -1,0 +1,16 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 7 · Given an opening unit count of 11 on 2026-05-07, why was the demand of 15 not fully fulfilled?",
+  "row": 7,
+  "record": {
+    "Date": "2026-05-07",
+    "Opening units": 11,
+    "Receipts": 0,
+    "Demand": 15,
+    "Fulfilled": 11,
+    "Unmet demand": 4,
+    "Closing units": 0
+  },
+  "source_sha256": "6224935a5171719bfb455aaeba70abc0a65fc1bb3c10a4f174f6d5296232ecb3",
+  "report_sha256": "c95bc93031821c054c7fad808180b11b37561dae8d2e0eec0381f3b7b6194a0e"
+}
